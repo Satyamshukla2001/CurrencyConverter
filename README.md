@@ -75,6 +75,6 @@ These are in the current code and are good first improvements:
 ## 👤 Author
 
 
-## 📄 License
+
 
 This project is for learning purposes. Add a license file if you want others to reuse it.
