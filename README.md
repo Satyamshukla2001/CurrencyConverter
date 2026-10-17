@@ -72,7 +72,7 @@ These are in the current code and are good first improvements:
 - Store rates in `config.properties` instead of in code
 - Add a `.gitignore` for compiled `*.class` files and generated Javadoc HTML
 
-## 👤 Author
+
 
 
 
